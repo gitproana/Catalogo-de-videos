@@ -1,0 +1,17 @@
+body {
+    color: wheat;
+    background: black;
+    margin: 0px
+
+}
+
+header{
+    border-bottom: solid 1px rgb(13, 36, 153);
+    padding: 20px;
+    font-size: 32px;
+    
+}
+
+section{
+    background: rgb(36, 15, 69);
+}
